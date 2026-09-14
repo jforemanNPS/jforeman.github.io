@@ -1,4 +1,4 @@
-# jforeman.github.io
+# Jaedon Foreman
 My GitHub Portfolio of Python Project
 
 Aspiring Data Scientist 
