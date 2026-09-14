@@ -1,11 +1,11 @@
 # Jaedon Foreman
 Aspiring Data Scientist 
 
-**Technicla Skills:**: Python
+**Technicla Skills:**: Python |
 **Certified in:** Security+
 
 ## Contact Me
-**Phone Number:** 314-596-6046 (DSN)
+**Phone Number:** 314-596-6046 (DSN) |
 **Email:** jaedon.a.foreman@nps.edu
 
 ## Education
