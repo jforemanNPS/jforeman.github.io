@@ -1,6 +1,4 @@
 # Jaedon Foreman
-My GitHub Portfolio of Python Project
-
 Aspiring Data Scientist 
 
 **Technicla Skills:**: Python
